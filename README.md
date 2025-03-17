@@ -20,21 +20,12 @@ I also plan to practice algorithmic problem-solving on `LeetCode` to strengthen 
 
 
 <div align="center">
-  <a href="https://github.com/AymeneJamjama">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AymeneJamjama&show_icons=true&locale=en&layout=compact&theme=dark" alt="AymeneJamjama"/>
-  </a>
 </div>
 <p align="center">
   <a href="https://github.com/AymeneJamjama">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymeneJamjama&&theme=dark" alt="AymeneJamjama" />
   </a>
 </p>
-
-
-  <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<AymeneJamjama>"/>  
-    </div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymenejamjama&label=Profile%20views&color=0e75b6&style=flat" alt="aymenejamjama" /> </p>
