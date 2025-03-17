@@ -1,4 +1,4 @@
-### Hi, I'm Aymene <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+### Hi, I'm `Aymene` !
 
 Master’s student in `Financial Engineering` & `Actuarial Science` , with a strong focus on quantitative finance, risk modeling, and market dynamics.  
 Passionate about applying mathematical models to real-world financial problems.  
