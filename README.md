@@ -2,7 +2,8 @@
 
 Master’s student in **Financial Engineering** & **Actuarial Science** , with a strong focus on **quantitative finance, risk modeling, and market dynamics**.  
 Passionate about applying mathematical models to real-world financial problems.  
-<img align="right" width=200px height=200px alt="side_sticker" src="h[ttps://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNyNjVqcDA1djJvcHp0MmFqbWg2YjFrbTQyY2xoZ2xrcHVid3QxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif)" />
+<img align="right" width="200" height="200" alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNyNjVqcDA1djJvcHp0MmFqbWg2YjFrbTQyY2xoZ2xrcHVid3QxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" />
+
 
 This GitHub is where I document my progress, experiment with new ideas, and share projects related to quantitative finance and risk analysis.\
 I also plan to practice algorithmic problem-solving on LeetCode to strengthen my coding and problem-solving skills 😊
@@ -31,6 +32,10 @@ I also plan to practice algorithmic problem-solving on LeetCode to strengthen my
         <img alt="Visitor Stats" 
             src="https://widgetbite.com/stats/<AymeneJamjama>"/>  
     </div>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymenejamjama&label=Profile%20views&color=0e75b6&style=flat" alt="aymenejamjama" /> </p>
+
 
 
 
