@@ -17,7 +17,6 @@ I also plan to practice algorithmic problem-solving on LeetCode to strengthen my
 
 <div align="center">
   <a href="https://github.com/AymeneJamjama">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AymeneJamjama&show_icons=true&locale=en&layout=compact&theme=dark" alt="AymeneJamjama"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AymeneJamjama&show_icons=true&locale=en&layout=compact&theme=dark" alt="AymeneJamjama"/>
   </a>
 </div>
