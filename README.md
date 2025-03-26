@@ -6,7 +6,6 @@ Passionate about applying mathematical models to real-world financial problems.
 
 
 This GitHub is where I document my progress, experiment with new ideas, and share projects related to quantitative finance and risk analysis.\
-I also plan to practice algorithmic problem-solving on `LeetCode` to strengthen my coding and problem-solving skills 😊
 
 
  • `Actuarial Data Science` at [AXA](https://www.axa.com/)\
